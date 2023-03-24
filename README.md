@@ -6,8 +6,7 @@ Requirements:
 -------------
 
 1) Initial setup / Config page:-
-    * Date of the practice should be taken, and with this name the empty dataframe should be created with schema 
-    (Bowler name, Batsmen name, type of ball, where the ball was blowled, where the batsmen played the ball).
+    * Date of the practice should be taken as input.
 
     *  Batsmen name should be taken as input.
 
